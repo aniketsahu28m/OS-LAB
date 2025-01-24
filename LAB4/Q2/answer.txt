@@ -1,0 +1,7 @@
+tudent@MIT-ICT-L10-04:~/230953336/LAB4/Q2$ bash Q2.sh file2.txt
+Are you sure you want to delete file2.txt? (y/n): n
+file2.txt has not been deleted.
+student@MIT-ICT-L10-04:~/230953336/LAB4/Q2$ bash Q2.sh file2_2.txt
+Are you sure you want to delete file2_2.txt? (y/n): y
+rm: remove regular file 'file2_2.txt'? y
+file2_2.txt has been deleted.
