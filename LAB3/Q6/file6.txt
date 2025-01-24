@@ -1,0 +1,5 @@
+Lets learn about fruits.
+Example: Apple, Banana, Mango
+ 
+Lets learn about cars. Example: Ferrari, Lambo, Audi
+Example: ex:
