@@ -1,0 +1,9 @@
+student@MIT-ICT-L10-04:~/230953336/LAB4$ cd Q3
+student@MIT-ICT-L10-04:~/230953336/LAB4/Q3$ bash Q3.sh
+No strings provided. Please provide strings to sort.
+student@MIT-ICT-L10-04:~/230953336/LAB4/Q3$ bash Q3.sh aniket adriteyo
+Sorted strings: adriteyo aniket
+student@MIT-ICT-L10-04:~/230953336/LAB4/Q3$ bash Q3.sh aniket adriteyo shivam
+Sorted strings: adriteyo aniket shivam
+student@MIT-ICT-L10-04:~/230953336/LAB4/Q3$ bash Q3.sh Hello hi my name is aniket
+Sorted strings: aniket Hello hi is my name
