@@ -1,0 +1,12 @@
+student@MIT-ICT-L10-04:~/230953336/LAB5/Q2$ gcc Q2.c
+student@MIT-ICT-L10-04:~/230953336/LAB5/Q2$ ./a.out
+Usage: ./a.out <string1> <string2> ... <stringN>
+student@MIT-ICT-L10-04:~/230953336/LAB5/Q2$ ./a.out ANIKET SHIVAM ARYAN
+Sorted strings in child process:
+ANIKET
+ARYAN
+SHIVAM
+Unsorted strings in parent process:
+ANIKET
+SHIVAM
+ARYAN

@@ -1,0 +1,18 @@
+student@MIT-ICT-L10-04:~/230953336/LAB5/Q3$ gcc Q3.c
+student@MIT-ICT-L10-04:~/230953336/LAB5/Q3$ ./a.out
+Enter number of strings: 4
+Enter string 1: Aniket 
+Enter string 2: Shivam
+Enter string 3: Aryan
+Enter string 4: Adriteyo
+Sorted strings by bubble sort:
+Adriteyo
+Aniket
+Aryan
+Shivam
+Sorted strings by selection sort:
+Adriteyo
+Aniket
+Aryan
+Shivam
+Parent process waiting for both children to complete.

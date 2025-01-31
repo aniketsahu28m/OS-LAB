@@ -1,0 +1,10 @@
+student@MIT-ICT-L10-04:~/230953336/LAB5/Q1$ gcc Q1.c
+student@MIT-ICT-L10-04:~/230953336/LAB5/Q1$ ./a.out
+Parent Process:
+PID: 5017
+PPID: 4453
+This is the parent process!
+Child Process:
+PID: 5018
+PPID: 1818
+This is the child process!
