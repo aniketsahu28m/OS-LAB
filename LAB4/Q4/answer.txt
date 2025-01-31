@@ -1,0 +1,6 @@
+student@MIT-ICT-L10-04:~/230953336/LAB4/Q4$ bash Q4.sh -linecount file4.txt
+Line count: 5
+student@MIT-ICT-L10-04:~/230953336/LAB4/Q4$ bash Q4.sh -wordcount file4.txt
+Word count: 20
+student@MIT-ICT-L10-04:~/230953336/LAB4/Q4$ bash Q4.sh -charcount file4.txt
+Character count: 89
