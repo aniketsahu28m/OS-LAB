@@ -1,0 +1,22 @@
+gcc -o Q2 Q2.c -lpthread -lrt
+./Q2
+Reader 1 is reading shared data: 0
+Reader 0 is reading shared data: 0
+Reader 2 is reading shared data: 0
+Reader 3 is reading shared data: 0
+Reader 4 is reading shared data: 0
+Writer 0 is writing new value: 1
+Writer 0 is writing new value: 2
+Writer 0 is writing new value: 3
+Writer 0 is writing new value: 4
+Writer 0 is writing new value: 5
+Writer 0 is writing new value: 6
+Writer 0 is writing new value: 7
+Writer 0 is writing new value: 8
+Writer 0 is writing new value: 9
+Writer 0 is writing new value: 10
+Writer 0 is writing new value: 11
+Writer 0 is writing new value: 12
+Writer 0 is writing new value: 13
+^Z
+[3]+  Stopped                 ./Q2
